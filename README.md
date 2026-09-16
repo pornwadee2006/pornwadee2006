@@ -1,9 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is pornwadee
 ==================================================================================================================================
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=pornwadee2006&color=green)
 Database Management System
 --------------------------
-
+<img
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
+bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
+M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
 i love database มาก
 
 * 🌍  I'm based in thai
