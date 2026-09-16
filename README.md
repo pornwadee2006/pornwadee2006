@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Database Management System
 --------------------------
 <img
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
+src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
 bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
+M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.pinimg.com/564x/4d/c3/54/4dc354bf6bd38fb2bcc57c9f77194172.jpg)" width="100" height="100" />
+
+
 i love database มาก
 
 * 🌍  I'm based in thai
